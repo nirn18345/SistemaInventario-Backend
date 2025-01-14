@@ -1,0 +1,45 @@
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.deps.json
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.pdb
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.dll
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.pdb
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventar.25F09479.Up2Date
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\refint\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.pdb
+C:\Users\nelson.rodriguez\Desktop\Tutorial\Resolucion Prueba BG\Api Productos\TiendaMovilApi\SistemaInventario\Inventario.Application\obj\Debug\net8.0\ref\Inventario.Application.dll
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.deps.json
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.dll
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.pdb
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.dll
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.pdb
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfo.cs
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventar.25F09479.Up2Date
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.dll
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\refint\Inventario.Application.dll
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.pdb
+C:\Users\usuario\Downloads\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\ref\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.deps.json
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\bin\Debug\net8.0\Inventario.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventar.25F09479.Up2Date
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\refint\Inventario.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\Inventario.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\Tutorial\Fuentes\SistemaInventario\SistemaInventario\Inventario.Application\obj\Debug\net8.0\ref\Inventario.Application.dll
