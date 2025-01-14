@@ -23,7 +23,7 @@ BEGIN
         Descripcion NVARCHAR(255) NOT NULL,
         Stock INT NOT NULL,
         Estado NVARCHAR(50) NOT NULL,
-        Imagen NVARCHAR(255) NOT NULL,
+        Imagen NVARCHAR(MAX) NOT NULL,
         FechaCreacion DATETIME NOT NULL,
         FechaModificacio DATETIME NOT NULL,
         Activo BIT NOT NULL,
