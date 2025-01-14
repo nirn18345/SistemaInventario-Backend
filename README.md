@@ -20,7 +20,8 @@ Esta es una API RESTful para gestionar un sistema de inventario de productos. La
 
 1. **Configuarcion Base de Datos:**
    Crea una base de datos llamada DbInventario utilizando SQL Server.
-   Ejecuta el script DbInventarioUpgrade.sql ubicado en el directorio raíz del proyecto. Esto creará las tablas necesarias y un usuario administrador por defecto.
+   Ejecuta el script **DbInventarioUpgrade.sql** ubicado en el directorio raíz del proyecto. **InventarioAPI**
+   Esto creará las tablas necesarias y un usuario administrador por defecto.
 
 2. **Restaurar dependencias:**
    Dentro del directorio del proyecto:
