@@ -1,5 +1,5 @@
 
-#** API de Inventario**
+** API de Inventario**
 
 ## Descripción
 Esta es una API RESTful para gestionar un sistema de inventario de productos. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los productos, y manejar la autenticación de usuarios para acceder a las funcionalidades del sistema.
